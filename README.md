@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eric-kobby
+- 👋 Hi, I’m Eric Mensah
 - 👀 I’m a React,Typescript & .NET Enthusiast.
 - 💞️ Currently enjoying frontend development with GraphQL.
 - Collaborating on some .NET libraries
